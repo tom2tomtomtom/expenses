@@ -1,0 +1,41 @@
+{
+  "vendor": "Amazon",
+  "date": "2025-04-10",
+  "total": 95.0,
+  "subtotal": 81.97,
+  "tax": 87.96,
+  "shipping": null,
+  "discount": null,
+  "order_number": "113-7654321-1234567",
+  "items": [
+    {
+      "name": "Python Programming Book -",
+      "quantity": 1,
+      "price": 49.99,
+      "total": 49.99
+    },
+    {
+      "name": "-",
+      "quantity": 1,
+      "price": 15.99,
+      "total": 15.99
+    },
+    {
+      "name": "CA 12345\nUnited States\n\n-------------------------------------\nOrder Details\n-------------------------------------\n\n1 x Python Programming Book -",
+      "quantity": 1,
+      "price": 49.99,
+      "total": 49.99
+    },
+    {
+      "name": "-",
+      "quantity": 1,
+      "price": 15.99,
+      "total": 15.99
+    }
+  ],
+  "currency": "USD",
+  "email_subject": "Your Amazon.com order #113-7654321-1234567",
+  "email_from": "auto-confirm@amazon.com",
+  "email_date": "Thu, 10 Apr 2025 15:30:22 -0700",
+  "confidence": 0.8799999999999999
+}

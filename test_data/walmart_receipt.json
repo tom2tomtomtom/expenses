@@ -1,0 +1,7 @@
+{
+  "subject": "Your Walmart.com Order Confirmation",
+  "from": "customerservice@walmart.com",
+  "to": "customer@example.com",
+  "date": "Wed, 9 Apr 2025 10:15:45 -0500",
+  "body": "Thank you for shopping at Walmart!\n\n-------------------------------------\nOrder Confirmation\n-------------------------------------\nOrder #: W12345678\nOrder Date: 04/09/2025\n\nShipping Address:\nJane Smith\n456 Oak Avenue\nSomewhere, NY 54321\nUnited States\n\n-------------------------------------\nOrder Details\n-------------------------------------\n\n2 x Kitchen Towels - $4.97 each\n1 x Blender - $39.88\n3 x Cereal - $3.48 each\n\nSubtotal: $60.26\nShipping: $0.00\nTax: $5.42\n\nTotal: $65.68\n\n-------------------------------------\nPayment Information\n-------------------------------------\nPayment Method: MasterCard ending in 5678\n\nThank you for shopping with us!\nWalmart.com\n"
+}

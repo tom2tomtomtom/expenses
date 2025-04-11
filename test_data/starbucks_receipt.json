@@ -1,0 +1,7 @@
+{
+  "subject": "Your Starbucks Receipt",
+  "from": "receipts@starbucks.com",
+  "to": "customer@example.com",
+  "date": "Tue, 8 Apr 2025 08:45:12 -0600",
+  "body": "Thank you for visiting Starbucks!\n\n-------------------------------------\nStarbucks Receipt\n-------------------------------------\nStore: #4321 - Downtown Location\nDate: April 8, 2025\nTime: 8:42 AM\nOrder #: SB987654\n\n-------------------------------------\nOrder Details\n-------------------------------------\n\n1 x Grande Caffe Latte - $4.95\n1 x Blueberry Muffin - $3.25\n\nSubtotal: $8.20\nTax: $0.74\n\nTotal: $8.94\n\n-------------------------------------\nPayment Information\n-------------------------------------\nPayment Method: Starbucks Card ending in 9876\n\nThank you for your purchase!\nStarbucks Coffee Company\n"
+}

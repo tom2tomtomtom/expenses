@@ -1,0 +1,41 @@
+{
+  "vendor": "Starbucks",
+  "date": "2025-04-08",
+  "total": 8.2,
+  "subtotal": 8.2,
+  "tax": 0.74,
+  "shipping": null,
+  "discount": null,
+  "order_number": "SB987654",
+  "items": [
+    {
+      "name": "Grande Caffe Latte -",
+      "quantity": 1,
+      "price": 4.95,
+      "total": 4.95
+    },
+    {
+      "name": "Blueberry Muffin -",
+      "quantity": 1,
+      "price": 3.25,
+      "total": 3.25
+    },
+    {
+      "name": "SB987654\n\n-------------------------------------\nOrder Details\n-------------------------------------\n\n1 x Grande Caffe Latte -",
+      "quantity": 1,
+      "price": 4.95,
+      "total": 4.95
+    },
+    {
+      "name": "1 x Blueberry Muffin -",
+      "quantity": 1,
+      "price": 3.25,
+      "total": 3.25
+    }
+  ],
+  "currency": "USD",
+  "email_subject": "Your Starbucks Receipt",
+  "email_from": "receipts@starbucks.com",
+  "email_date": "Tue, 8 Apr 2025 08:45:12 -0600",
+  "confidence": 0.8799999999999999
+}

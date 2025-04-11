@@ -1,0 +1,7 @@
+{
+  "subject": "Your Amazon.com order #113-7654321-1234567",
+  "from": "auto-confirm@amazon.com",
+  "to": "customer@example.com",
+  "date": "Thu, 10 Apr 2025 15:30:22 -0700",
+  "body": "Hello Customer,\n\nThank you for your order from Amazon.com!\n\n-------------------------------------\nOrder Confirmation\n-------------------------------------\nOrder #: 113-7654321-1234567\nOrder Date: April 10, 2025\n\nShipping Address:\nJohn Doe\n123 Main Street\nAnytown, CA 12345\nUnited States\n\n-------------------------------------\nOrder Details\n-------------------------------------\n\n1 x Python Programming Book - $49.99\n2 x USB-C Cable (6ft) - $15.99 each\n\nItem(s) Subtotal: $81.97\nShipping & Handling: $5.99\nTotal before tax: $87.96\nEstimated tax to be collected: $7.04\n\nGrand Total: $95.00\n\n-------------------------------------\nPayment Information\n-------------------------------------\nPayment Method: Visa ending in 1234\n\nThank you for shopping with us!\nAmazon.com\n"
+}

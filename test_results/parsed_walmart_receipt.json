@@ -1,0 +1,65 @@
+{
+  "vendor": "Walmart",
+  "date": "2025-04-09",
+  "total": 60.26,
+  "subtotal": 60.26,
+  "tax": 5.42,
+  "shipping": 0.0,
+  "discount": null,
+  "order_number": "W12345678",
+  "items": [
+    {
+      "name": "Kitchen Towels -",
+      "quantity": 2,
+      "price": 4.97,
+      "total": 9.94
+    },
+    {
+      "name": "Blender -",
+      "quantity": 1,
+      "price": 39.88,
+      "total": 39.88
+    },
+    {
+      "name": "Cereal -",
+      "quantity": 3,
+      "price": 3.48,
+      "total": 10.44
+    },
+    {
+      "name": "NY 54321\nUnited States\n\n-------------------------------------\nOrder Details\n-------------------------------------\n\n2 x Kitchen Towels -",
+      "quantity": 1,
+      "price": 4.97,
+      "total": 4.97
+    },
+    {
+      "name": "88\n3 x Cereal -",
+      "quantity": 1,
+      "price": 3.48,
+      "total": 3.48
+    },
+    {
+      "name": "NY 54321\nUnited States\n\n-------------------------------------\nOrder Details\n-------------------------------------\n\n2 x Kitchen Towels -",
+      "quantity": 1,
+      "price": 4.97,
+      "total": 4.97
+    },
+    {
+      "name": "each\n1 x Blender -",
+      "quantity": 1,
+      "price": 39.88,
+      "total": 39.88
+    },
+    {
+      "name": "3 x Cereal -",
+      "quantity": 1,
+      "price": 3.48,
+      "total": 3.48
+    }
+  ],
+  "currency": "USD",
+  "email_subject": "Your Walmart.com Order Confirmation",
+  "email_from": "customerservice@walmart.com",
+  "email_date": "Wed, 9 Apr 2025 10:15:45 -0500",
+  "confidence": 0.94
+}

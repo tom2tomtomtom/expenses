@@ -1,0 +1,18 @@
+{
+  "email": {
+    "auth_type": "gmail_api",
+    "credentials_file": "credentials.json",
+    "token_file": "token.json",
+    "search_query": "subject:receipt OR subject:order confirmation",
+    "max_emails": 50
+  },
+  "sheets": {
+    "credentials_file": "credentials.json",
+    "token_file": "sheets_token.json",
+    "spreadsheet_title": "Receipt Tracker"
+  },
+  "output": {
+    "save_receipts": true,
+    "receipts_dir": "receipts"
+  }
+}
